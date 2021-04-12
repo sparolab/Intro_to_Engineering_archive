@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-from time import sleep #time 라이브러리의 sleep함수 사용
+import time
 import numpy as np
 import pygame
 
